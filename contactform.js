@@ -1,4 +1,3 @@
-// Contact Form Submission
 form.addEventListener("submit", async (e) => {
     e.preventDefault();
   
