@@ -12,7 +12,6 @@ toggleButton.addEventListener("click", () => {
   }
 });
 
-// Add styles for dark theme
 const style = document.createElement("style");
 style.innerHTML = `
   .dark-theme {
